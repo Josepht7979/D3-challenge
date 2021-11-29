@@ -1,10 +1,7 @@
 # D3-challenge
 
-
-
-# D3 Homework - Data Journalism and D3
-
 # [D3 Homework - Data Journalism and D3](https://josepht7979.github.io/D3-challenge/StarterCode)
+
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
